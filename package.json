@@ -1,0 +1,26 @@
+{
+  "name": "hexo-image-localpath",
+  "version": "1.0.0",
+  "description": "enable you to reference files in post asset with relative path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumcai/hexo-image-localpath.git"
+  },
+  "keywords": [
+    "hexo",
+    "link",
+    "image",
+    "path",
+    "asset"
+  ],
+  "author": "sumcai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumcai/hexo-image-localpath/issues"
+  },
+  "homepage": "https://github.com/sumcai/hexo-image-localpath#readme"
+}
