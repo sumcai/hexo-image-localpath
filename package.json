@@ -1,6 +1,6 @@
 {
   "name": "hexo-image-localpath",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "enable you to reference files in post asset with relative path",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sumcai/hexo-image-localpath.git"
+  },
+  "dependencies": {
+    "fs-extra": "^10.0.0"
   },
   "keywords": [
     "hexo",
